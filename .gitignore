@@ -20,3 +20,6 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 /deploy.php
+.idea/php.xml
+.idea/guestbook.iml
+.idea/guestbook.iml
